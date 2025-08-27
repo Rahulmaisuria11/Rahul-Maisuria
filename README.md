@@ -67,6 +67,18 @@ AZ-500: Azure Security    <img width="150" height="101" alt="image" src="https:/
 
 Az-700: Azure Networks  <img width="150" height="101" alt="image" src="https://github.com/user-attachments/assets/6d38d1a0-7a7b-48e4-b8f2-84dc080047ee" />
 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
 
 ###
 
